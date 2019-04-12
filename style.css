@@ -1,3 +1,9 @@
+* {margin: 0; border: 0;}
+body {
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+}
 .window {
     width: 960px;
     overflow: hidden;
